@@ -1,0 +1,33 @@
+The problem with fixed bid:
+
+When you’re paying for a project based on a fixed bid, you have to remember that you’re essentially 
+paying for the insurance cost of the developer. This cost is attributable to the fact that a developer will
+incur unanticipated costs over the course of the project, which they will factor into their budget. In
+essence, if they think that given their initial conversations with the client, the project will cost 13
+thousand dollars to complete, their experience will compel them to charge 20 thousand dollars to cover
+any unforeseen contingencies. 
+
+But there are problems with fixed bid that go beyond just costs. The problem is that you get exactly 
+what you asked for. Why is this a problem? It’s a problem because what you asked for might not be 
+what you need at the end of the day. Will customer requirements stay the same? Will the customer be
+happy with what’s built? Questions come up that weren’t anticipated as the developer continues to 
+develop. Despite these contingencies, under a fixed bid contract, you may run out of time and money to
+affect any changes beyond the original specifications. 
+
+Fixed bids are also problematic in their tendency to result in BDUF (Big Design UpFront). The best idea is 
+to start building your software when you know least about it. Furthermore, refinements should be made
+in incremental timeframes e.g. two weeks. A sub-optimal practice would be for the customer to make 
+every important decision about the design upfront, only to be disappointed about the outcome at the 
+end of the fixed bid project when both time and money have run out. Tests and subsequent revisions 
+should be made as early and as frequently as possible. Fixed bids are not conducive to this requirement.
+
+So what’s the alternative to fixed bids? It’s something called iterative software development. In an
+iterative development process, you break down your project into little, manageable pieces. 
+Furthermore, you solve problems as they emerge in a just-in-time fashion (the opposite approach would
+be to build everything from start to finish according to your original specifications, and only then begin 
+to identify problems and correct errors). In retrospect (after building software through a fixed bid 
+according to hundreds of specifications you laid out from the outset), oftentimes you realize that you
+only needed half of your original specifications (with the other half being obsolete), and that you need
+to add a ton of other features you didn’t even dream of being necessary. An iterative software 
+development process obviates such post-development remorse. In other words, it is the most efficient
+way of developing software. 
